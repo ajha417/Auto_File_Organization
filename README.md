@@ -1,4 +1,4 @@
-# MyfirstProject
+# AutoFileOrganization
 import os
 folderpath = r"/boot/New Folder"
 os.getcwd()
